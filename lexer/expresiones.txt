@@ -1,0 +1,19 @@
+//casos prueba de lexer
+z = -1
+a = 10
+b = 20.5
+c = a + b
+d = a - b
+e = a * b
+f = a / b
+g = a ^ b
+2.3E3
+6.345e-5
+-0.001E-3
+.467E9
+.117E
+variable_1 = 100
+variable_2 = 200.5
+// Esto es un comentario
+/// comentario 2
+resultado = variable_1 + variable_2 // Esto es otro comentario
